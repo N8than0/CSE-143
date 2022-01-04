@@ -1,0 +1,14 @@
+1.) Put all of the words in the dictionary into a map (complete)
+2.) Search through all of the values in the dictionary to see if the letters in the
+    word passed in matches (incomplete)
+3.) delete the letters that have already been used in the string and search for words with that 
+    new set of letters. (incomplete)
+4.) Print out all of the values that matched up in stack form to system.out (incomplete)
+
+
+Needs:
+- Method that has the purpose of searching through all of the values in the dictionary.
+- Method that removes letters that have been used already from the initial string and uses that new string
+- Method that saves all of the found anagrams in a dictionary.
+- 
+ 

@@ -1,0 +1,10 @@
+Q:
+does it bark
+A:
+dog
+Q:
+Does it meow?
+A:
+cat
+A:
+computer
